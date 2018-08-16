@@ -1,0 +1,28 @@
+body {
+	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', 'Meiryo','ＭＳ Ｐゴシック','MS PGothic'  
+}
+
+.main {
+	width: 600px;
+	margin: 120px auto;
+}
+.heading h1{
+	font-size: 60px;
+	
+	text-align: center;
+}
+.info-list {
+	margin: 100px 50px;
+}
+.info {
+	font-size: 30px;
+	list-style-type: none;
+
+	text-align: center;
+}
+.info-name {
+	float: left;
+}
+.info-data {
+	float: right;
+}
